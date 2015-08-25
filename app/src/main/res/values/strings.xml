@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Beer Converter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="units_array">
+        <item>Pints</item>
+        <item>1/2 Pints</item>
+        <item>330ml Bottles</item>
+        <item>350ml Bottles</item>
+        <item>190ml Bottles</item>
+        <item>750ml Bottles</item>
+        <item>Cans</item>
+        <item>Cans(UK)</item>
+        <item>Liters</item>
+        <item>Gallons</item>
+        <item>Imperial Gallons</item>
+        <item>Ounces</item>
+        <item>Yards</item>
+        <item>Keg: Mini-keg</item>
+        <item>Keg: Half Barrel (Europe)</item>
+        <item>Keg: Import Keg (Europe)</item>
+        <item>Keg: Pony Keg</item>
+        <item>Keg: Full Keg</item>
+        <item>Caguamas</item>
+        <item>Caguamones</item>
+        <item>Cartón</item>
+        <item>Cuartitos</item>
+        <item>Jabas</item>
+        <item>Pezcuezudas</item>
+    </string-array>
+
+    <string-array name="values_array">
+        <item>568.26</item>
+        <item>284.13</item>
+        <item>330</item>
+        <item>350</item>
+        <item>190</item>
+        <item>750</item>
+        <item>350</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>3785.4</item>
+        <item>4546.09</item>
+        <item>28.41</item>
+        <item>1400</item>
+        <item>5000</item>
+        <item>25000</item>
+        <item>50000</item>
+        <item>29800</item>
+        <item>58660</item>
+        <item>940</item>
+        <item>1200</item>
+        <item>8520</item>
+        <item>190</item>
+        <item>9000</item>
+        <item>750</item>
+    </string-array>
+
+    <string-array name="sex_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="male_recommendations">
+        <item>Meh... that\'s nothing</item>
+        <item>You\'re Ok man!</item>
+        <item>Ok mate, you are within the recommended limit</item>
+        <item>Dude, I\'ll stop drinking if I was you</item>
+        <item>Ok, you\'ve had enough... drink some water</item>
+        <item>Feel that weird sensation in your fingertips?... That\'s because you\'ve had too much!!! stop!</item>
+        <item>Ok that\'s it! put that pint down, go home and sleep!... and leave some aspirins and water nearby</item>
+    </string-array>
+
+    <string-array name="female_recommendations">
+        <item>Oh you are just fine! Have I told you you look great?</item>
+        <item>Girl, you\'re within the recommended limit. Oh! you have beautiful eyes!!!</item>
+        <item>Ok you\'re drinking a little over the recommended units of alcohol... what about some water?</item>
+        <item>This is a little bit too much... let\'s stop</item>
+        <item>I guess you are starting to feel kinda funny... THAT\'S BECAUSE YOU\'RE DRINKING TOO MUCH!!!</item>
+        <item>Do you know that too much alcohol makes you fat?... Ok... that was mean... I just want you to stop drinking...</item>
+        <item>Ok that\'s it! put that pint down, go home and sleep!... and leave some aspirins and water nearby</item>
+    </string-array>
+
+
+</resources>
