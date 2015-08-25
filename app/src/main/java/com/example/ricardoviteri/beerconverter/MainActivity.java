@@ -170,6 +170,7 @@ public class MainActivity extends Activity implements AdapterView.OnItemSelected
     public void changeAlcoholMode(){
         if(isAlcoholMode){
             txtAlcohol.setVisibility(View.GONE);
+            //cosa
             txtSex.setVisibility(View.GONE);
             sexSpinner.setVisibility(View.GONE);
             for(int i = 0; i<fromViews.size(); i++){
